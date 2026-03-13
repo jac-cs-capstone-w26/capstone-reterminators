@@ -1,4 +1,4 @@
-# Team Contract Template
+# Team Contract
 
 This is an informal contract to ensure that all team members have a common understanding of what is expected in terms of work standards, communication, division or work, and conflict resolution.
 
@@ -6,21 +6,21 @@ This is an informal contract to ensure that all team members have a common under
 
 *What will the name of your team be?*
 
-- Team name: 
+- Team name: reTerminators
 
 ## Team Members
 
-- Name of member A:
-- Name of member B:
-- Name of member C:
+- Name of member A: Bogdan Andrei Feher
+- Name of member B: Cuong Ngo
+- Name of member C: Muhammad Balawal
 
 ## Strength & Weaknesses
 
 *Within the context of this project, what are the strengths and weaknesses that each member brings to the team?*
 
-- A:
-- B:
-- C:
+- A: I like to take initiative but i tend to do things last minute
+- B: I am good at system design in terms of efficiency and user experience but tend to overcomplicate things
+- C: I have never submitted anything late but I becomes demotivated if dont like the project
 
 ## Definition of “good enough” for this project
 

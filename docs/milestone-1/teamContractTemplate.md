@@ -26,27 +26,29 @@ This is an informal contract to ensure that all team members have a common under
 
 *What would the team collectively consider “good enough” of an achievement for the project?*
 
-*(One response for the whole team)*
+Our project must have a clear objective where each device works together and the whole system is useful.
 
 ## Division of work
 
 *How will each member contribute to the project?*
 
-- A:
-- B:
-- C:
+3-5 hours a week each person.
+
+- A: I will contribute with good ideas, listen to other's recommendations and do my part of the project
+- B: I am willing to contribute as many hours as I can in order to complete the work and have a succesfull project
+- C: I will contribute
 
 ## Frequency of communication
 
 *How often will the team be in touch and what tools will be used to communicate?*
 
-*(One response per team)*
+We will talk on Instagram ideally every other day
 
 ## Response delays
 
 *What is a reasonable delay to reply to messages? Is it the same for weekdays and weekends?*
 
-*(One response per team)*
+2 days
 
 ## Receiving feedback
 
@@ -54,12 +56,12 @@ This is an informal contract to ensure that all team members have a common under
 
 *(If unsure, assume a hypothetical situation such as you have not completed your work in time or you have not replied to a message in a timely manner).*
 
-- A:
-- B:
-- C:
+- A: I prefer to receive it in real life, both positive and constructive
+- B: Straightforward and constructive, I'm all ears to hear out my teammates' feedback
+- C: I like Pull Request reviews
 
 ## In case of conflict
 
 *If a team member fails to communicate as described in this contract or does not respond to constructive feedback, what measures should the other teammate take?*
 
-*(One response for the whole team)*
+Bring it up in the group chat, give a warning and then if not resolved follow up with the teacher

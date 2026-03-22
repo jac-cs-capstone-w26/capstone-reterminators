@@ -6,38 +6,37 @@ Once you are finished brainstorming your project ideas, fill in each of the sect
 
 ## Purpose
 
-Write 2-4 sentences outlining the purpose of your overall project.
+The purpose of this project is to develop a healthcare app that helps patients monitor their own health and perform simple medical tasks more safely. The system combines real-time sensing and guidance to give users feedback about their body and surroundings.
 
 ## Subsystems
 
-Each team partner will be responsible for a subsystem of the project.
-
 ### Subsystem 1
 
-Write 2-3 sentences outlining the purpose of your subsystem, and how it fits in to the overall project.
+Vein Injection Guidance responsible for detecting vein locations for injections. It combines micro servo motors, light/laser guidance, and visual feedback to ensure accurate needle placement, reducing patient discomfort and error.
 
 #### Devices
 
 List, or put in a table, the devices your subsystem will use. 
 
 For each device, include the Component name, Interface type, and link to any documentation you can find about that device.
+
+Micro Servo Motors
+Laser Pointer Module
 
 ### Subsystem 2
 
-Write 2-3 sentences outlining the purpose of your subsystem, and how it fits in to the overall project.
+Patient Vital Monitoring monitors patient stress levels and heart rate using skin sensing and biometric sensors. The system collects and processes data in real time, providing alerts for abnormal readings. It integrates into the app to display patient vitals alongside procedural guidance.
 
 #### Devices
 
-List, or put in a table, the devices your subsystem will use. 
-
-For each device, include the Component name, Interface type, and link to any documentation you can find about that device.
+GRS Skin Sensing Sensor I2C / Analog
+Heart Rate Monitor I2C / Analog
 
 ### Subsystem 3
 
-Write 2-3 sentences outlining the purpose of your subsystem, and how it fits in to the overall project.
+Environment Monitoring checks the patient environment for safety by monitoring temperature and oxygen levels. This subsystem complements the other two by providing context-aware data to enhance patient safety.
 
 #### Devices
 
-List, or put in a table, the devices your subsystem will use. 
-
-For each device, include the Component name, Interface type, and link to any documentation you can find about that device.
+Temperature Sensor I2C / Digital
+Oxygen Level Sensor Analog / Digital
